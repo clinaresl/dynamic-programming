@@ -18,8 +18,8 @@ This repository contains solutions of the following problems
 
 ## Maximum Subarray
 
-Given an array $X = {x_1, x_2, ..., x_N}$ of *N* elements, find the
-maximum possible sum of a contiguous array.
+Given an array *X* = {*x1*, *x2*, ..., *xN*}$ of *N* elements, find
+the maximum possible sum of a contiguous array.
 
 Empty subarrays/subsequences should not be considered.
 
